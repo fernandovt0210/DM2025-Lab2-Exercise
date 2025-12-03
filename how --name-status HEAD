@@ -1,0 +1,134 @@
+[33mcommit 3a9a94da3cab4314b5fdf27dd76376b11095a660[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fernandovt0210 <fernandovt0210@gmail.com>
+Date:   Thu Nov 27 16:43:43 2025 +0800
+
+    Finished the main and the bonus
+
+[33mcommit 260c5fe2058070f69651cc366cbcc0557edf5d87[m
+Author: fernandovt0210 <fernandovt0210@gmail.com>
+Date:   Sun Nov 2 13:20:18 2025 +0800
+
+    Phase 1 completed
+
+[33mcommit c1e4c3af12b656389f605005c7b8970dfaa5667d[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Oct 20 13:16:30 2025 +0800
+
+    Updated kaggle competition link
+    
+    Updated Kaggle competition link, previous one could not be accessed properly.
+
+[33mcommit a5a14d9cf98158b0730061bac9000499b01916ae[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Sun Oct 19 03:40:19 2025 +0800
+
+    Updated description
+
+[33mcommit b3389b80889f3264492f60436e41b6d2d8099235[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Sun Oct 19 02:56:22 2025 +0800
+
+    Added additional explanations | Sections 2.3 and 2.5 of Phase 2 are now bonus
+    
+    Added video tutorials on API and LLM foundational concepts to understand Phase 2 content better. Now sections 2.3 Information Extraction and Grounding and 2.5 Retrieval-Augmented Generation (RAG) will be considered bonus sections, and as such their exercises will not be counted for the main graded, they will be extra points counted together with the exercises in the Bonus notebook. Fixing smaller errors and revising the spec description in the homework notebook for easier understanding.
+
+[33mcommit 362cfd42ce90b99df008ab80b7f31f224bd01c1d[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Wed Oct 15 01:12:06 2025 +0800
+
+    Update DM2025-Lab2-Homework.ipynb
+
+[33mcommit 8470838e88daa42749417e6307aa7f29dee8eca6[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Oct 13 15:36:30 2025 +0800
+
+    Update README.md
+
+[33mcommit b405181bae4437c6902febfa894a44d5894e497f[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Oct 13 00:33:12 2025 +0800
+
+    Delete environment_setup.md
+
+[33mcommit eb7cba3eb21b88a36cecf2f342d79f078fcbe3d7[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Oct 13 00:26:47 2025 +0800
+
+    Revisions on instructions and homework
+    
+    Changed report requirement from PDF to markdown inside homework notebook. Give more detail on Google News data and API key setup.
+
+[33mcommit 97b5b879a5de9f1be78a1b70e5edd4cb9cd30e39[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Thu Oct 9 17:13:12 2025 +0800
+
+    Setup instructions revised
+    
+    Instructions on all phases revised and separated into a cleaner structure.
+
+[33mcommit 6beb4e1ef56e7e35de2443c79b35bd86cdc77dca[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Wed Oct 8 17:19:27 2025 +0800
+
+    Updating deadlines figure
+
+[33mcommit 18f5c4ffe170c956865b9208b98a773c2c827fc1[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Wed Oct 8 16:50:18 2025 +0800
+
+    Revised Lab 2 Content
+    
+    Revising the contents of each phase in different notebooks.
+
+[33mcommit 25bb38d9b28969560ee82b9af6dd719a42924a14[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Sep 22 20:03:32 2025 +0800
+
+    Updating info on recommendations about how to run lab 2
+
+[33mcommit 4c2516cfba0d81a661118354fb8c582d9d35333f[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Sep 22 04:25:04 2025 +0800
+
+    Update README.md
+
+[33mcommit f050a634bf1912eb287f865c6011b78249d93bcc[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Sep 22 03:46:18 2025 +0800
+
+    Added documentation on Optional Ollama material in Kaggle and Colab
+    
+    Added links to Kaggle and Colab notebooks tested to run DM2025-Lab2-Optional-Ollama.ipynb  in the cloud.
+    Also revised some details in DM2025-Lab2-Optional-Ollama.ipynb
+
+[33mcommit 188968db315721703325c9d862752601d16c3b8e[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Mon Sep 22 01:05:55 2025 +0800
+
+    Added new material to the optional Ollama notebook | revised some details in master and readme
+
+[33mcommit 29a72f89418bcea58812139401b08b2769c5ba9b[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Sun Sep 21 09:13:22 2025 +0800
+
+    Added documentation on Kaggle and Colab Environment | Revised details
+
+[33mcommit 186ea8421dae409347e1cb5737688c159a4618f6[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Sun Sep 21 04:14:32 2025 +0800
+
+    Changed some pics and readme
+
+[33mcommit c90aa10493c120d6f87b71efaf0a063e0e06283b[m
+Author: difersalest <didiersalest@gmail.com>
+Date:   Sun Sep 21 04:07:09 2025 +0800
+
+    Adding the new Lab 2 Material
+    
+    Adding main material to run the Lab 2 for Data Mining Class of 2025.
+
+[33mcommit 2ee2c09521a68e408ded4e612d1dd93332cb2704[m
+Author: difersalest <114909322+difersalest@users.noreply.github.com>
+Date:   Sat Sep 20 18:32:38 2025 +0800
+
+    Initial commit
